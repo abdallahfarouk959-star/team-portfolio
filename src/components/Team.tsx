@@ -8,6 +8,7 @@ import mee from "../assets/MEE.png"; // دي .png
 import omarFathy from "../assets/Omar Fathy.jpeg";
 import omarMosafa from "../assets/Omar Mosafa.jpeg";
 import sasa from "../assets/SASA.png"; // دي .png
+import WAnnas from "../assets/WAnnas.jpeg";
 const team = [
   {
     name: "Abdallah M Farouk",
@@ -75,6 +76,16 @@ const team = [
     social: {
       linkedin: "https://www.linkedin.com/in/mohamed-ghanem-051010348/",
       github: "https://github.com/mohamed-ghanem",
+    },
+  },
+  {
+    name: "Omar Wannas",
+    role: "Back-End Lead & API Architect",
+    specialty: "React Ecosystem & Node.js Optimization",
+    image: WAnnas,
+    social: {
+      linkedin: "https://www.linkedin.com/in/omar-khaled-2b6345388/",
+      github: "https://github.com/omar-fathy",
     },
   },
 ];

@@ -60,7 +60,7 @@ export default function Hero() {
                     <div className="w-3 h-3 rounded-full bg-yellow-500/50" />
                     <div className="w-3 h-3 rounded-full bg-green-500/50" />
                   </div>
-                  <div className="text-[10px] font-mono text-gray-500 ml-4">architecture.ts — arch-scale</div>
+                  <div className="text-[10px] font-mono text-gray-500 ml-4">AO-Nexus</div>
                 </div>
                 <div className="p-6 font-mono text-sm leading-relaxed">
                   <div className="text-brand-secondary">import</div> <span className="text-white">{"{ ScalableSystem }"}</span> <div className="text-brand-secondary inline">from</div> <span className="text-brand-primary">"@arch-scale/core"</span>;
